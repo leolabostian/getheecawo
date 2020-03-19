@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaifohvu.lrg.lt/sitemap.xml
